@@ -1,4 +1,4 @@
-3. Conteúdo:
+Conteúdo:
 ```md
 # O poder do Shell
 
