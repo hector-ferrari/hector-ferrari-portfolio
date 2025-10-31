@@ -6,11 +6,14 @@ Análise de logs do servidor HTTP para identificar o malware responsável por re
 ## Contexto
 Desafio FIAPLAB — investigar `access_log` para descobrir qual malware estava realizando requisições maliciosas ao servidor.
 
+## Desafio proposto
+No dia do Natal, um malware conhecido executou requisições ao servidor FIAPLAB. Diante do exposto, faça o download do arquivo `“access_log”` e utilizando os recursos existentes no terminal Linux, execute análise informando qual o nome do malware.
+
 ## Processo de análise
 1. Identifiquei o formato das entradas do log (IP, método, URL, User-Agent).  
 2. Busquei padrões repetidos e IPs com alta frequência usando `grep`.  
 3. Extraí linhas dos IPs suspeitos para análise isolada.  
-4. Inspecionei caminhos acessados e User-Agent registrados.  
+4. Inspecionei caminhos acessados e `User-Agent` registrados.  
 5. Procurei por termos conhecidos (por exemplo, “jorgee”) e confirmei múltiplas ocorrências.
 
 ## Comandos utilizados
@@ -27,4 +30,4 @@ As requisições foram atribuídas ao malware identificado como Jorgee, respons�
 
 ## Ferramentas usadas
 
-grep, análise manual de logs e User-Agent
+`grep`, `análise manual de logs` e `User-Agent`
