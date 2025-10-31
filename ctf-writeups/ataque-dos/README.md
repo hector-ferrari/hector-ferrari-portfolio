@@ -7,6 +7,9 @@ Análise de logs Apache para descobrir o IP com maior volume de requisições.
 Desafio da pós-graduação FIAP em Defesa Cibernética (Blue Team).  
 O objetivo era identificar o IP que fez mais requisições — possível ataque DoS.
 
+## Desafio proposto
+Você nota que existe uma quantidade expressiva de requisições contra seu servidor web, diante da situação, decida analisar os logs do servidor apache `"logs.txt"`. Descubra o IP que mais fez requisição e você poderá utilizá-lo como flag para pontuar.
+
 ## Como fiz
 1. Extraí os IPs do log.
 2. Ordenei e contei as ocorrências por IP.
@@ -24,4 +27,4 @@ Identifiquei o IP responsável pelo maior número de requisições.
 
 ### Ferramentas usadas
 
-awk, sort, uniq
+`awk`, `sort`, `uniq`
