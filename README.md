@@ -1,21 +1,16 @@
-# Hector Ferrari - Portfólio de Cibersegurança
+# Portfólio - Hector Ferrari
 
-Bem-vindo ao meu portfólio! Aqui você encontra projetos e desafios de cibersegurança, automatizações e análises que desenvolvi durante minha formação e estudos.
+Repositório com write-ups de desafios CTF e scripts desenvolvidos durante a pós-graduação em Defesa Cibernética (Blue Team) na FIAP.  
+O objetivo é documentar aprendizados práticos em análise de logs, regex, administração de sistemas e automação com Bash.
 
-## Projetos
+## Estrutura do repositório
 
-- [CTF Write-ups](./ctf-writeups/) — desafios resolvidos e análises.  
+- [CTF Write-ups](./ctf-writeups/)
   - [Ataque DoS](./ctf-writeups/ataque-dos/)
   - [Ataque de Natal](./ctf-writeups/ataque-natal/)
   - [O Poder do Shell](./ctf-writeups/poder-do-shell/)
-- [Roteiros / Scripts](./roteiros/) — scripts de automação e segurança.
-
+- [Scripts](./scripts/) — ferramentas e automações de uso recorrente.
 
 ## Contato
-- LinkedIn: [https://www.linkedin.com/in/hector-ferrari](https://www.linkedin.com/in/hector-ferrari)
 
-## Estrutura
-
-- [`ctf-writeups/`](./ctf-writeups/) — Desafios resolvidos e análises.  
-- [`scripts/`](./scripts/) — Scripts de automação e segurança.  
- 
+- LinkedIn: [www.linkedin.com/in/hector-ferrari](https://www.linkedin.com/in/hector-ferrari)
