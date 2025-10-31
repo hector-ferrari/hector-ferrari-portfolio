@@ -14,4 +14,4 @@ Bem-vindo ao meu portfólio! Aqui você encontra projetos e desafios de ciberseg
 
 - [`ctf-writeups/`](./ctf-writeups/) — Desafios resolvidos e análises.  
 - [`scripts/`](./scripts/) — Scripts de automação e segurança.  
-- [`assets/`](./assets/) — Recursos visuais, prints ou diagramas (opcional).  
+ 
