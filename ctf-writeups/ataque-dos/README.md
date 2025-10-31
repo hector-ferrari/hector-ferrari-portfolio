@@ -17,3 +17,11 @@ O objetivo era identificar o IP que fez mais requisições — possível ataque 
 awk '{print $1}' logs.txt
 sort | uniq -c
 sort -nr | head -n 10
+```
+### Resultado
+
+Identifiquei o IP responsável pelo maior número de requisições.
+
+### Ferramentas usadas
+
+awk, sort, uniq
