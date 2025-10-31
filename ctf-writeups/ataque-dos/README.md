@@ -1,13 +1,19 @@
 # Ataque DoS
 
-## Descrição
-Análise de logs Apache para descobrir o IP com maior volume de requisições usando `awk`, `sort` e `uniq`.
+## O que foi feito
+Análise de logs Apache para descobrir o IP com maior volume de requisições.
 
 ## Contexto
-Desafio CTF proposto na FIAP para o primeiro challenge da pós-graduação em Defesa Cibernética (Blue Team).  
-O objetivo era identificar o IP que realizou mais requisições ao servidor Apache.
+Desafio da pós-graduação FIAP em Defesa Cibernética (Blue Team).  
+O objetivo era identificar o IP que fez mais requisições — possível ataque DoS.
 
-## Passos realizados
-1. Extração do primeiro campo (IP) de cada linha:
-   ```bash
-   awk '{print $1}' logs.txt
+## Como fiz
+1. Extraí os IPs do log.
+2. Ordenei e contei as ocorrências por IP.
+3. Ordenei o resultado em ordem decrescente para identificar os IPs com mais requisições.
+
+### Comandos utilizados
+```bash
+awk '{print $1}' logs.txt
+sort | uniq -c
+sort -nr | head -n 10
