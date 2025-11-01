@@ -28,3 +28,7 @@ Conteúdo disponível para fins educacionais e demonstração profissional.
 ## Contato
 
 - LinkedIn: [www.linkedin.com/in/hector-ferrari](https://www.linkedin.com/in/hector-ferrari)
+
+## Código de Conduta
+
+- [Doc](./CODE_OF_CONDUCT.md)
