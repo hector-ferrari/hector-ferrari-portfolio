@@ -39,7 +39,6 @@ O script utiliza os seguintes comandos principais:
 
 ## Conclusão / Notas finais
 Este script demonstra habilidades práticas em Bash, administração de serviços Linux e configuração de firewall, além de aplicação de boas práticas de segurança em ambiente de laboratório. 
-Pode ser utilizado como referência em portfólio para recrutadores, mostrando experiência com resolução de problemas reais e automação de tarefas administrativas.
 
 ---
 **Observação:** Sempre desative o Samba e remova regras do firewall quando não estiver em uso para garantir segurança da rede.
