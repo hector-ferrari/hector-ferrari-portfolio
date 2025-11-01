@@ -31,4 +31,4 @@ Conteúdo disponível para fins educacionais e demonstração profissional.
 
 ## Código de Conduta
 
-- [Doc](./CODE_OF_CONDUCT.md)
+- [Documentação](./CODE_OF_CONDUCT.md)
