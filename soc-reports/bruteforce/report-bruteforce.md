@@ -3,7 +3,7 @@
 **Tipo:** Tentativas repetidas de login  
 **Classificação:** Média  
 **Status:** Contido  
-**Detecção:** 03/12/2025  
+**Detecção:** 02/10/2025  
 **Analista:** Hector Ferrari
 
 ---
