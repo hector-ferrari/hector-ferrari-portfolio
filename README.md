@@ -1,6 +1,6 @@
 # Portfólio - Hector Ferrari
 
-Repositório com write-ups de desafios CTF e scripts desenvolvidos durante a pós-graduação em Defesa Cibernética (Blue Team) na FIAP.  
+Repositório com write-ups de desafios CTF, relatórios de incidentes e scripts desenvolvidos durante a pós-graduação (cursando) em Defesa Cibernética (Blue Team) na FIAP.  
 O objetivo é documentar aprendizados práticos em análise de logs, regex, administração de sistemas e automação com Bash.
 
 > 🎯 Foco em segurança defensiva, automação de sistemas e investigação de incidentes.
