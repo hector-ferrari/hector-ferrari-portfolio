@@ -24,8 +24,16 @@ O objetivo é documentar aprendizados práticos em análise de logs, regex, admi
 
 ## 🔹 SOC Reports
 
-Acesse meus relatórios e análises Blue Team:
-- [Clique aqui para abrir a pasta de reports](soc-reports/)
+Relatórios de incidentes analisados seguindo práticas de SOC N1 / Blue Team.
+
+- **Brute Force** — [ver relatório](./soc-reports/bruteforce/report-bruteforce.md)  
+- **Phishing** — [ver relatório](./soc-reports/phishing/report-phishing.md)  
+- **Acesso Suspeito** — [ver relatório](./soc-reports/acesso-suspeito/report-acesso-suspeito.md)  
+- **Malware** — [ver relatório](./soc-reports/malware/report-malware.md)  
+- **Firewall Alert** — [ver relatório](./soc-reports/firewall-alert/report-firewall.md)
+
+📁 **Pasta completa:**  
+→ [soc-reports/](./soc-reports/)
 
 ## Licença
 Conteúdo disponível para fins educacionais e demonstração profissional.
