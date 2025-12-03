@@ -22,6 +22,10 @@ O objetivo é documentar aprendizados práticos em análise de logs, regex, admi
   - [O Poder do Shell](./ctf-writeups/poder-do-shell/)
 - [Scripts](./scripts/) — ferramentas e automações de uso recorrente.
 
+## 🔹 SOC Reports
+Acesse meus relatórios de incidentes e análises Blue Team:  
+  [Relatórios SOC](relatórios sociais/)
+
 ## Licença
 Conteúdo disponível para fins educacionais e demonstração profissional.
 
