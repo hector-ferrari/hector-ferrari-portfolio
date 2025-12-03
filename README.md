@@ -23,8 +23,8 @@ O objetivo é documentar aprendizados práticos em análise de logs, regex, admi
 - [Scripts](./scripts/) — ferramentas e automações de uso recorrente.
 
 ## 🔹 SOC Reports
-Acesse meus relatórios de incidentes e análises Blue Team:  
-  [Relatórios SOC](relatórios sociais/)
+Acesse meus relatórios e análises Blue Team:
+  [Clique aqui para abrir a pasta de reports](soc-reports/)
 
 ## Licença
 Conteúdo disponível para fins educacionais e demonstração profissional.
