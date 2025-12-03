@@ -3,7 +3,7 @@
 **Tipo:** E-mail suspeito (phishing)  
 **Classificação:** Alta  
 **Status:** Encaminhado para L2  
-**Detecção:** 03/12/2025  
+**Detecção:** 05/10/2025  
 **Analista:** Hector Ferrari  
 
 ---
